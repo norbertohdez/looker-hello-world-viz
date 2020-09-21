@@ -1,4 +1,4 @@
-project_name: "viz-test_uservoice-marketplace"
+project_name: "test_uservoice"
 
 constant: VIS_LABEL {
   value: "Test UserVoice"
